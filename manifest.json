@@ -1,0 +1,12 @@
+{  
+ "name": "WCC Groups",  
+ "version": "0.2",  
+ "manifest_version": 2,  
+ "background": {"persistent": true, "scripts": ["bg.js"]},  
+ "permissions": ["contextMenus"],
+ "icons": {
+    "16": "wcc_ext_icon_16.png",
+    "48": "wcc_ext_icon_48.png",
+    "128": "wcc_ext_icon_128.png"
+  }  
+ }  
